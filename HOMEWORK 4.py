@@ -173,7 +173,7 @@ student2.add_courses('Основы алгоритмов')
 print(reviewer1)
 print()
 print(reviewer2)
-print()
+print(f'\n')
 
 print(lecturer1)
 print()
